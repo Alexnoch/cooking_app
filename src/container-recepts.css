@@ -1,0 +1,14 @@
+.container-recepts{
+    width:50%;
+    display: flex;
+    padding:20px;
+    flex-direction: column;
+    font-family: sans-serif;
+    border:2px solid rgb(187, 173, 173);
+    border-radius: 5%;
+}
+
+.container-recepts > button{
+    display: inline-block;
+    align-self: flex-end;
+}

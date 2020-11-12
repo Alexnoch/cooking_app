@@ -1,0 +1,13 @@
+.cooking__menu{
+    width:30%;
+    padding:10px 15px;
+    border:2px solid rgb(163, 154, 154);
+    border-radius: 5%;
+    
+}
+
+.cooking__menu >button{
+    display: block;
+    margin-bottom: 15px;
+    
+}
